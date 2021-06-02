@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/d%C3%A1vid-kov%C3%A1%C4%8D-9420b6133" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
